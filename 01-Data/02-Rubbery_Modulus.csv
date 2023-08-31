@@ -1,4 +1,4 @@
-No,Reference,SMP name,SMILES,Molar Ratio,Tg,Rubbery Modulus(MPa)
+No,Reference,SMP name,Smiles,Molar ratio,Tg,Rubbery modulus
 1,"Castro et al. 
 2010[1]",tba & PEGDMA,"{C=C(C)C(=O)OCCCC, C=C(C)C(=O)OCCOC(=O)C(=C)C}",0.61:0.39,49.36,4
 2,Cuminet et al 2023[2],vm-RvOH,"{C(=C\c3cc(OCC1CO1)cc(OCC2CO2)c3)/c5ccc(OCC4CO4)cc5, O=C(O)C(F)(F)Oc2ccc(/C=C/c1cc(OC(F)(F)C(=O)O)cc(OC(F)(F)C(=O)O)c1)cc2}",0.5:0.5,117,46
@@ -237,3 +237,10 @@ No,Reference,SMP name,SMILES,Molar Ratio,Tg,Rubbery Modulus(MPa)
 235,"Nicolas et al., 2020[57]",TRI-60%,"{CCCCCCCCC1OC1CCCCCCCC(=O)OCC(COC(=O)CCCCCCCC2OC2CCCCCCCC)OC(=O)CCCCCCCC3OC3CC4OC4CCCCC, c5cc(C(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4)ccc5OCC6CO6, O=C(O)CCCC(=O)O}",0.2:0.6:0.2,34,47.3
 236,"Nicolas et al., 2020[57]",TRI-40%,"{CCCCCCCCC1OC1CCCCCCCC(=O)OCC(COC(=O)CCCCCCCC2OC2CCCCCCCC)OC(=O)CCCCCCCC3OC3CC4OC4CCCCC, c5cc(C(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4)ccc5OCC6CO6, O=C(O)CCCC(=O)O}",0.214:0.571:0.214,59,36.2
 237,"Nicolas et al., 2020[57]",TRI-20%,"{CCCCCCCCC1OC1CCCCCCCC(=O)OCC(COC(=O)CCCCCCCC2OC2CCCCCCCC)OC(=O)CCCCCCCC3OC3CC4OC4CCCCC, c5cc(C(c2ccc(OCC1CO1)cc2)c4ccc(OCC3CO3)cc4)ccc5OCC6CO6, O=C(O)CCCC(=O)O}",0.4:0.2:0.4,102,17.6
+238,"Ning et al., 2021",1,"{ C=CCc1ccccc1OCC(O)COC(=O)CCCCC(=O)OCC(O)COc2ccccc2CC=C,O=c1ccc(=O)n1c4ccc(Cc3ccc(n2c(=O)ccc2=O)cc3)cc4 }",0.5:0.5,118.8,27.32
+239,"Ning et al., 2021",2,"{ C=CCc1ccccc1OCC(O)COC(=O)Cc3ccc(C(=O)OCC(O)COc2ccccc2CC=C)cc3,O=c1ccc(=O)n1c4ccc(Cc3ccc(n2c(=O)ccc2=O)cc3)cc4 }",0.5:0.5,127.3,37.46
+240,"Yan et al., 2020",Epon862+MDS,"{ c2cc(OCC1CO1)ccc2Cc4ccc(OCC3CO3)cc4, Nc2ccc(SSc1ccc(N)cc1)cc2}",0.5874 : 0.4126,170,14.54
+241,"Yan et al., 2020",Epon862 +Lupal FG+MDS,"{ c2cc(OCC1CO1)ccc2Cc4ccc(OCC3CO3)cc4,NCCNCCN(CCNCCC(CN)CCN)CCN(CCNCCN)CCN(CCN)CCN, Nc2ccc(SSc1ccc(N)cc1)cc2}",0.6445 : 0.0393 : 0.3162,160,21.25
+242,"Yan et al., 2020",Epon862 +Lupal FG+MDS,"{ c2cc(OCC1CO1)ccc2Cc4ccc(OCC3CO3)cc4,NCCNCCN(CCNCCC(CN)CCN)CCN(CCNCCN)CCN(CCN)CCN, Nc2ccc(SSc1ccc(N)cc1)cc2}",0.6886 : 0.0695 : 0.2418,155,21.85
+243,"Yan et al., 2020",Epon862 +Lupal FG+MDS,"{ c2cc(OCC1CO1)ccc2Cc4ccc(OCC3CO3)cc4,NCCNCCN(CCNCCC(CN)CCN)CCN(CCNCCN)CCN(CCN)CCN, Nc2ccc(SSc1ccc(N)cc1)cc2}",0.7402 : 0.1044 : 0.1554,145,28.35
+244,"Yan et al., 2020",Epon862+Lupal FG,"{ c2cc(OCC1CO1)ccc2Cc4ccc(OCC3CO3)cc4,NCCNCCN(CCNCCC(CN)CCN)CCN(CCNCCN)CCN(CCN)CCN}",0.8319 : 0.1681,145,36.57
